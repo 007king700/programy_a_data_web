@@ -51,3 +51,8 @@ dd {
 .tabulka {
     background-color: rgb(100, 100, 100);
 }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
